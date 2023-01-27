@@ -1,0 +1,8 @@
+Pine    27
+newTree 12
+otherTree 13
+specialTree 14
+Willow  10
+Oak     40
+Cherry  32
+Elm     5
