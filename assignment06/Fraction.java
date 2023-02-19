@@ -147,9 +147,6 @@ public class Fraction {
      * @return the result of the division.
      */
     public Fraction divide(Fraction rightHandSide) {
-//            if (other.numerator == 0) {
-//                throw new IllegalArgumentException("no divide by zero");
-//            }
         long Numerator = numerator * rightHandSide.denominator;
         long Denominator = denominator * rightHandSide.numerator;
         return new Fraction(Numerator, Denominator);
